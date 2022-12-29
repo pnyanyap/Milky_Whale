@@ -1,0 +1,19 @@
+<svg width="343" height="343" viewBox="0 0 343 343" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="171.5" cy="171.5" r="170.5" stroke="#35F036" stroke-width="2"/>
+<circle cx="191.5" cy="171.5" r="151" stroke="#35F036" stroke-dasharray="2 2"/>
+<circle cx="211.5" cy="171.5" r="131" stroke="#35F036" stroke-dasharray="2 2"/>
+<circle cx="231.5" cy="171.5" r="111" stroke="#35F036" stroke-dasharray="2 2"/>
+<circle cx="251.5" cy="171.5" r="91" stroke="#35F036" stroke-dasharray="2 2"/>
+<circle cx="271.5" cy="171.5" r="71" stroke="#35F036" stroke-dasharray="2 2"/>
+<circle cx="291.5" cy="171.5" r="51" stroke="#35F036" stroke-dasharray="2 2"/>
+<circle cx="311.5" cy="171.5" r="31" stroke="#35F036" stroke-dasharray="2 2"/>
+<line x1="1" y1="171.5" x2="343" y2="171.5" stroke="#35F036"/>
+<path d="M17.5 246.5C64.1667 221.833 194.3 172.5 341.5 172.5" stroke="#35F036" stroke-dasharray="2 2"/>
+<path d="M83.5 316C137.5 262 188 214 341.5 172.5" stroke="#35F036" stroke-dasharray="2 2"/>
+<path d="M192 340.5C198 313.5 220.5 246 341.5 172.5" stroke="#35F036" stroke-dasharray="2 2"/>
+<path d="M192 2C198 29 220.5 96.5 341.5 170" stroke="#35F036" stroke-dasharray="2 2"/>
+<path d="M317 83.5C310.5 112.5 323 149.5 341.5 170" stroke="#35F036" stroke-dasharray="2 2"/>
+<path d="M317 259.5C310.5 230.5 323 193.5 341.5 173" stroke="#35F036" stroke-dasharray="2 2"/>
+<path d="M83.5 26C137.5 80 188 128 341.5 169.5" stroke="#35F036" stroke-dasharray="2 2"/>
+<path d="M17.5 96C64.1667 120.667 194.3 170 341.5 170" stroke="#35F036" stroke-dasharray="2 2"/>
+</svg>
